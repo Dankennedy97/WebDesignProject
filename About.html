@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 	<html>
 		<head>
-			<link rel="shortcut icon" href="images/emblem.ico">
+		<link rel="shortcut icon" href="images/emblem.ico">
 		<title>
-			DC Heroes & Villains 
+			DC Villains
 		</title>
 		<meta name="viewport" content="width=device-width, initial scale=1">
 		<link rel="stylesheet" href="css/bootstrap.min.css" />
@@ -15,7 +15,7 @@
 		<script>jQuery(function($) {$('.slider').sss();});</script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-backstretch/2.0.4/jquery.backstretch.min.js"></script>
 		</head>
-		<body>
+		<body id="">
 			<div class="navbar-static-top navbar-inverse" id="home">
 				<div class="container">
 					<div class="navbar-brand">
@@ -40,26 +40,23 @@
 					</div>
 				</div>
 			</div>
-			<object width="100%" height="100" data="images/gg.gif"></object>
-			<div id="myCarousel" class="carousel slide" data-ride="carousel">
-				<h1 class="war container">Heroes & Villains</h1>
-			<div class="slider padding war">
-					<img src="images/fight.png" />
-					<img src="images/fight2.jpg" />
-					<img src="images/fight3.jpg" />
-					<img src="images/fight4.jpg" />
-					<img src="images/fight5.jpg" />
-					<img src="images/fight6.jpg" />
-			
-			</div>
-			</div>
 			<script>
 				$.backstretch("back.jpeg");
 			</script>
-			<div class="footer">
-				<p class="final">Web Design Project 2016.</p>
+			<div class="container" id="block">
+				<p class="final">Thank you for taking the time to look through my website and I hope that you have enjoyed yourself. I made this website in the hopes that I could share with you my passion for comic books and their characters.</p>
+
+				<button id="no" onclick="myFunction()">Push the button</button>
 			</div>
+			<script>
+				function myFunction() {
+					alert("Thank you for visiting my website!");
+					}
+			</script>
+
 			<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
 			<script src="js/bootstrap.js"></script>
+
+
 		</body>
 	</html>

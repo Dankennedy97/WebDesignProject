@@ -10,6 +10,12 @@
 #dark{
 	background:#b8b894;
 }
+#joke{
+	color:#ffad33;
+}
+#speed{
+	color:#ff1a1a;
+}
 .footer{
 	height:75px;
 	width:100%;
@@ -51,17 +57,20 @@ hr{
 ul{
 	background-image:url("images/mvd.jpg");
 }
-#shield{
+#help{
 	color:#6699ff;
+}
+#shield{
+	color:#ffa31a;
 }
 #head4{
 	background-image:url("images/shield.jpg");
 }
 #s{
-	background:blue;
+	background:#3366ff;
 }
 #cape{
-	color:red;
+	color:#ff1a1a;
 }
 #head3{
 	background-image:url("images/soup.jpg");
@@ -95,6 +104,14 @@ p{
 #f{
 	background:red;
 }
+#no{
+	background:black;
+}
+#block{
+	background-color:black;
+	color:white;
+	padding:20px;
+}
 #head1{
 	background-image:url("images/flash.jpg");
 }
@@ -103,4 +120,11 @@ p{
 	width:100%;
 	background-attachment:fixed;
 	text-align:center;
+}
+.final{
+	color:white;
+	text-align:center;
+}
+object{
+	background:white;
 }
