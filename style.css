@@ -1,0 +1,106 @@
+#a{
+	background:#88B04B;
+}
+#b{
+	background:grey;
+}
+#d{
+	background:#e68a00;
+}
+#dark{
+	background:#b8b894;
+}
+.footer{
+	height:75px;
+	width:100%;
+	background:black;
+}
+#z{
+	background:#ffff33;
+}
+#j{
+	background:#d279d2;	
+}
+hr{
+	
+}
+#head5{
+	background-image:url("images/death.jpg");
+}
+#head6{
+	background-image:url("images/zoom.jpg");
+}
+#head7{
+	background-image:url("images/joke.jpg");
+}
+#head8{
+	background-image:url("images/dark.jpg");
+}
+.list{
+	font-size:30px;
+}
+.arrow{
+	color:black;
+}
+#bow{
+	color:green;
+}
+#head{
+	background-image:url("images/arrow.jpg");
+}
+ul{
+	background-image:url("images/mvd.jpg");
+}
+#shield{
+	color:#6699ff;
+}
+#head4{
+	background-image:url("images/shield.jpg");
+}
+#s{
+	background:blue;
+}
+#cape{
+	color:red;
+}
+#head3{
+	background-image:url("images/soup.jpg");
+}
+#bat{
+	color:blue;
+}
+#head2{
+	background-image:url("images/bat.jpg");
+}
+#main{
+	color:black;
+}
+button{
+	color:white;
+}
+p{
+	font-size:20px;
+}
+.navbar-inverse{
+	color:black;
+}
+.war{
+	padding-bottom:20px;
+	padding-top:20px;
+	color:white;
+}
+#run{
+	color:yellow;
+}
+#f{
+	background:red;
+}
+#head1{
+	background-image:url("images/flash.jpg");
+}
+.jumbotron{
+	height:500px;
+	width:100%;
+	background-attachment:fixed;
+	text-align:center;
+}
